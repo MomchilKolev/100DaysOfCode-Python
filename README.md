@@ -6,3 +6,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 2: Tip calculator
 - Day 3: Treasure island
 - Day 4: Rock Paper Scissors Game
+- Day 5: Password generator
