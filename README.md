@@ -10,3 +10,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 6: Escape the maze
 - Day 7: Hangman
 - Day 8: Caeser Cipher
+- Day 9: Secret Auction
