@@ -13,3 +13,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 9: Secret Auction
 - Day 10: Calculator
 - Day 11: Blackjack [Capstone]
+- Day 12: Number Guessing Game
