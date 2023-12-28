@@ -15,3 +15,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 11: Blackjack [Capstone]
 - Day 12: Number Guessing Game
 - Day 13: Debugger
+- Day 14: Higher Lower Game
