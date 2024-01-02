@@ -20,3 +20,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 16: OOP Coffee Machine
 - Day 17: Quiz Game
 - Day 18: Hirst Painting
+- Day 19: Turtle Race
