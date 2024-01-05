@@ -23,3 +23,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 19: Turtle Race
 - Day 20: Snake Part 1
 - Day 21: Snake Part 2
+- Day 22: Pong
