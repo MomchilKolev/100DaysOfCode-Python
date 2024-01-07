@@ -25,3 +25,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 21: Snake Part 2
 - Day 22: Pong
 - Day 23: Turtle Crossing
+- Day 24: Snake Score & Mail Merge
