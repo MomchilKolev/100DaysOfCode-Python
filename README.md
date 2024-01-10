@@ -28,3 +28,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 24: Snake Score & Mail Merge
 - Day 25: Squirrels & States Game
 - Day 26: Nato Alphabet
+- Day 27: mi-to-km converter
