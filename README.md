@@ -30,3 +30,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 26: Nato Alphabet
 - Day 27: mi-to-km converter
 - Day 28: Pomodoro Timer
+- Day 29: Password Manager GUI
