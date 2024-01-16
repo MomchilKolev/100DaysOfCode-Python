@@ -34,3 +34,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 30: Password Manager Search
 - Day 31: Flash Card App
 - Day 32: Motivational Quotes & Birthday Wisher
+- Day 33: Kanye Quotes
