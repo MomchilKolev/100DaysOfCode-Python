@@ -35,3 +35,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 31: Flash Card App
 - Day 32: Motivational Quotes & Birthday Wisher
 - Day 33: Kanye Quotes
+- Day 34: Quizzler
