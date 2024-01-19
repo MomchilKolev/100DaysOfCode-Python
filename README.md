@@ -37,3 +37,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 33: Kanye Quotes
 - Day 34: Quizzler
 - Day 35: Rain Alert
+- Day 36: Stock Tracker
