@@ -39,3 +39,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 35: Rain Alert
 - Day 36: Stock Tracker
 - Day 37: Habit Tracker
+- Day 38: Workout Tracker
