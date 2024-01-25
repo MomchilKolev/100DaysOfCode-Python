@@ -42,3 +42,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 38: Workout Tracker
 - Day 39: Flight Deal Finder Part 1 [Capstone]
 - Day 40: Flight Club Part 2 [Capstone]
+- Day 41: Introduction to HTML
