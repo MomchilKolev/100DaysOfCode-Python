@@ -44,3 +44,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 40: Flight Club Part 2 [Capstone]
 - Day 41: Introduction to HTML
 - Day 42: Intermediate HTML
+- Day 43: Introduction to cSS
