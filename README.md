@@ -46,3 +46,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 42: Intermediate HTML
 - Day 43: Introduction to cSS
 - Day 44: Intermediate CSS
+- Day 45: 100 Movies
