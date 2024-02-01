@@ -48,3 +48,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 44: Intermediate CSS
 - Day 45: 100 Movies
 - Day 46: Spotify Playlist using the Musical Time Machine
+- Day 47: Automated Amazon Price Tracker
