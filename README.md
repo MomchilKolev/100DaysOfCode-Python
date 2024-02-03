@@ -50,3 +50,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 46: Spotify Playlist using the Musical Time Machine
 - Day 47: Automated Amazon Price Tracker
 - Day 48: Game Playing Bot for Cookie Clicker
+- Day 49: Automatic Job Applications on LinkedIn
