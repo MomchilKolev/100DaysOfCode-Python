@@ -52,3 +52,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 48: Game Playing Bot for Cookie Clicker
 - Day 49: Automatic Job Applications on LinkedIn
 - Day 50: Automatic Omnivore Labeler Bot
+- Day 51: Internet Speed Twitter Complain Bot
