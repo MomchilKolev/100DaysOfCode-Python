@@ -54,3 +54,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 50: Automatic Omnivore Labeler Bot
 - Day 51: Internet Speed Twitter Complain Bot
 - Day 52: Instagram Follower Bot [x]
+- Day 53: Data Entry Job Automation [Capstone]
