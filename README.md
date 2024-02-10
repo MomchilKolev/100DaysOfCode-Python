@@ -56,3 +56,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 52: Instagram Follower Bot [x]
 - Day 53: Data Entry Job Automation [Capstone]
 - Day 54: Flask & Decorators
+- Day 55: Flask Higher Lower Game
