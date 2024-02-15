@@ -60,3 +60,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 56: Name Card & Personal Site
 - Day 57: Blog Part 1 [Capstone]
 - Day 58: TinDog Startup Website
+- Day 59: Blog Part 2 [Capstone]
