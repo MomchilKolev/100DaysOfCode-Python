@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Forms</title>
+</head>
+<body>
+
+    <h1>HTML Forms</h1>
+    <form action="{{ url_for('receive_data') }}" method="POST">
+        <label id="name" for="name">Name</label>
+        <input name="name" type="text" placeholder="name">
+        <label id="password" for="password">Password</label>
+        <input name="password" type="password" placeholder="password">
+        <button type="submit">Ok</button>
+    </form>
+
+</body>
+</html>
