@@ -63,3 +63,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 59: Blog Part 2 [Capstone]
 - Day 60: Flask POST & HTML Forms
 - Day 61: Advanced Forms
+- Day 62: Coffee & Wifi Project
