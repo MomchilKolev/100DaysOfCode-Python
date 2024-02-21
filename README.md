@@ -64,3 +64,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 60: Flask POST & HTML Forms
 - Day 61: Advanced Forms
 - Day 62: Coffee & Wifi Project
+- Day 63: SQLite & SQLAlchemy
