@@ -65,3 +65,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 61: Advanced Forms
 - Day 62: Coffee & Wifi Project
 - Day 63: SQLite & SQLAlchemy
+- Day 64: Top 10 Movies Website
