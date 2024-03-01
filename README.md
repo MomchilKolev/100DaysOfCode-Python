@@ -67,3 +67,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 63: SQLite & SQLAlchemy
 - Day 64: Top 10 Movies Website
 - Day 65: Web Design School
+- Day 66: API with RESTful Routing
