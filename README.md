@@ -69,3 +69,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 65: Web Design School
 - Day 66: API with RESTful Routing
 - Day 67: Blog Part 3 [Capstone]
+- Day 68: Flask Authentication
