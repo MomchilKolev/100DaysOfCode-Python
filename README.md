@@ -71,3 +71,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 67: Blog Part 3 [Capstone]
 - Day 68: Flask Authentication
 - Day 69: Blog Part 4 [Capstone]
+- Day 70: Git, Github, Version Control and Submodules
