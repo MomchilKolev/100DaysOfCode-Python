@@ -4,3 +4,6 @@
 [submodule "day-70/Project"]
 	path = day-70/Project
 	url = https://github.com/MomchilKolev/Project
+[submodule "day-70/Test"]
+	path = day-70/Test
+	url = https://github.com/MomchilKolev/Test
