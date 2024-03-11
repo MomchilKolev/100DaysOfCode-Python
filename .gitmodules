@@ -1,3 +1,6 @@
 [submodule "day-70/story"]
 	path = day-70/story
 	url = https://github.com/MomchilKolev/story
+[submodule "day-70/Project"]
+	path = day-70/Project
+	url = https://github.com/MomchilKolev/Project
