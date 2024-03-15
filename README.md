@@ -73,3 +73,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 69: Blog Part 4 [Capstone]
 - Day 70: Git, Github, Version Control and Submodules
 - Day 71: Deploying Your Web Application
+- Day 72: Data Exploration - Salaries by College Major
