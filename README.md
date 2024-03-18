@@ -75,3 +75,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 71: Deploying Your Web Application
 - Day 72: Data Exploration - Salaries by College Major
 - Day 73: Data Visualization with Matplotlib - Programming Language Popularity
+- Day 74: Aggregate & Merge Data with Pandas (Polars) - LEGO Dataset
