@@ -77,3 +77,4 @@ following the https://www.udemy.com/course/100-days-of-code/ course
 - Day 73: Data Visualization with Matplotlib - Programming Language Popularity
 - Day 74: Aggregate & Merge Data with Pandas (Polars) - LEGO Dataset
 - Day 75: Resampling & Visualizing Time Series - Google Trends Data
+- Day 76: Beautiful Plotly Charts & Analysing the Android App Store
